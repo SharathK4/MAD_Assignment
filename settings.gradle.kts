@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "UnitConverter"
+rootProject.name = "Lottieanimationapp"
 include(":app")
  
